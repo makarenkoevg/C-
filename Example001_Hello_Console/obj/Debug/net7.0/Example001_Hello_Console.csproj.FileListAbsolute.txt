@@ -1,0 +1,15 @@
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\bin\Debug\net7.0\Example001_Hello_Console.exe
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\bin\Debug\net7.0\Example001_Hello_Console.deps.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\bin\Debug\net7.0\Example001_Hello_Console.runtimeconfig.json
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\bin\Debug\net7.0\Example001_Hello_Console.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\bin\Debug\net7.0\Example001_Hello_Console.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.AssemblyInfo.cs
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\refint\Example001_Hello_Console.dll
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.pdb
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\Example001_Hello_Console.genruntimeconfig.cache
+C:\Users\а\Desktop\GeekBrains\1 четверть\Курс C#\Examples\Example001_Hello_Console\obj\Debug\net7.0\ref\Example001_Hello_Console.dll
